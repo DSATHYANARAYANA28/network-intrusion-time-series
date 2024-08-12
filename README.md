@@ -1,1 +1,2 @@
 # network-intrusion-time-series
+“AN INVESTIGATION OF NETWORK INTRUSION DETECTION DATASET WITH IOT DEVICES”, Investigated network intrusion detection systems' (NIDS) effectiveness in identifying cyberattacks on Internet of Things (IoT) devices. Analyzed the Kitsune attack dataset from Kaggle, focusing on time series patterns related to nine different attack types. Results will inform improved NIDS algorithms for IoT security.
